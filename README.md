@@ -1,5 +1,5 @@
 # Linear_Regression
-<h3>Linear Regression using Fish DataSet</h3> 
+<h3>Linear Regression using Fish DataSet to predict weight of fish.</h3> 
 <br>
 https://github.com/anshultaneja/Linear_Regression_Fish/blob/main/LinearRegressionusingPython_ClassAssessment.pdf
 <br>
